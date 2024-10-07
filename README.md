@@ -3,7 +3,7 @@ This is made by a skid, for skids, who want to completely unblock their school-o
 ## Requirements
 You'll need a 64-512 Sandisk USB Drive, and an external mouse (yes it's required) and a personal Windows laptop. 
 ## Downloads
-Download all of these, ill tell you how to use them later
+Download all of these on your personal laptop, I'll tell you how to use them later
 Tiny 10 https://archive.org/download/tiny-10-23-h2/tiny10%20x64%2023h2.iso 
 Setup https://downloads.dell.com/serviceability/eSupport/SupportAssistLauncher.exe?dl_uid=113770ee-115b-4fa0-aa85-615552a8b845&dc=E206AB2C7485970B241009C6D38AFEED&appname=drivers 
 Rufus https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe  
