@@ -1,7 +1,7 @@
 # Sigma Ublock
 SigmaUblock is a terrible name i came up with for a tutorial on a total unblock for school-owned Dell 3120's. This "exploit" has no affect on the laptops themselves, so it's completely legal. 
 ## Requirements
-You'll need a 64-512 Sandisk USB Drive, and an external mouse (yes it's required) and a personal Windows laptop. 
+You'll need a 64-512 Sandisk USB Drive, an external mouse (yes it's required), and a personal Windows laptop. 
 ## Downloads
 Download all of these on your personal laptop, I'll tell you how to use them later
 
